@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 import formatCurrency from "../util";
 
 export default class Products extends Component {
